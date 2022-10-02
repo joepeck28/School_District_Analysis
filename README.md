@@ -50,3 +50,6 @@ The last piece of data was very interesting, showing a sharp decrease in math sc
   
   ## Project Overview
   I am confident that my code is correct, but I am fairly certain that it isn't pretty. I struggled with the groupby and sort_values section. I find it interesting that charter schools seem to perform better with a smaller budget. I think that additional data on SES and population density would prove to add context to the results of this analysis. The test scores in comparison to budget alone cannot reflect the efficacy of a school to the community it serves.
+  
+### Addendum
+I added a new version of the enrollment counter that I think is much better, I wanted to leave the original, but there is an additional one that shows my improved version. I was helping a classmate to understand the problem and solution and I was able to rework the code and make it better.  
